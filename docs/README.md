@@ -1,3 +1,3 @@
 # Documentation
-* Guides
-* API
+* [API](/docs/api)
+* [Guides](/docs/guides)
