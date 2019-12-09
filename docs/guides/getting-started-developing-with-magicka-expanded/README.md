@@ -155,6 +155,6 @@ You can add this to the bottom of your _main.lua_ file, below the previous step'
 ## Conclusion
 That's it! Your spell is now "in-game". You can load the game and use the console command _addSpell_ to add it to your spell list and try it out. 
 
-At this point, please explore the [API](https://github.com/OperatorJack/Magicka-Expanded-Docs/wiki/API).
+At this point, please explore the [API](../docs/api).
 
 If you have comments or concerns, please contact me on Discord for the fastest response. I am always happy to help people create new effects.
