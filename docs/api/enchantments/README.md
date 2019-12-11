@@ -1,5 +1,6 @@
-### MagickaExpanded.enchantments
-* MagickaExpanded.enchantments.*createBasicEnchantment*(*params*)
+# MagickaExpanded.enchantments
+## Functions
+#### MagickaExpanded.enchantments.*createBasicEnchantment*(*params*)
    * Description
       * Creates or updates an enchantment based on the given *params*, 
         and adds it to the framework's list of managed enchantments. Accepts one
@@ -23,7 +24,7 @@ local params = {
 }
 ```
 
-* MagickaExpanded.enchantments.*createComplexEnchantment*(*params*)
+#### MagickaExpanded.enchantments.*createComplexEnchantment*(*params*)
    * Description
       * Creates or updates an enchantment based on the given *params*, 
         and adds it to the framework's list of managed enchantments. Accepts multiple
