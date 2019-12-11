@@ -1,5 +1,6 @@
-### MagickaExpanded.spells  
-* MagickaExpanded.spells.*getSpellCost*(*TES3spell spell*)
+# MagickaExpanded.spells  
+## Functions
+#### MagickaExpanded.spells.*getSpellCost*(*TES3spell spell*)
    * Description
       * Calculates and returns the spell costs for the given *TES3spell* parameter. Uses vanilla formula.
    * Parameters
@@ -27,7 +28,7 @@ local params = {
 }
 ```
 
-* MagickaExpanded.spells.*createComplexSpell*(*params*)
+#### MagickaExpanded.spells.*createComplexSpell*(*params*)
    * Description
       * Creates or updates a spell based on the given *params*, 
         and adds it to the framework's list of managed spell . Accepts multiple
