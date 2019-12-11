@@ -1,18 +1,18 @@
 # MagickaExpanded.grimoires
 ## Functions
-#### MagickaExpanded.tomes.addGrimoiresToPlayer()
+#### MagickaExpanded.grimoires.*addGrimoiresToPlayer*()
  * Description
     * [Pending]
     
-#### MagickaExpanded.grimoires.registerGrimoire()
+#### MagickaExpanded.grimoires.*registerGrimoire*()
  * Description
     * [Pending]
     
-#### MagickaExpanded.grimoires.registerGrimoires()
+#### MagickaExpanded.grimoires.*registerGrimoires*()
  * Description
     * [Pending]
     
-#### MagickaExpanded.grimoires.registerEvent()
+#### MagickaExpanded.grimoires.*registerEvent*()
  * Description
     * [Pending]
     
