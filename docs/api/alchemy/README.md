@@ -1,5 +1,5 @@
 # MagickaExpanded.alchemy
-### MagickaExpanded.alchemy.*createBasicPotion*(*params*)
+#### MagickaExpanded.alchemy.*createBasicPotion*(*params*)
  * Description
     * Creates or updates a potion based on the given *params*, and adds it to the framework's list of managed potions. Accepts one magic effect.
  * Parameters
@@ -18,7 +18,7 @@ local params = {
 }
 ```
 
-### MagickaExpanded.alchemy.*createComplexPotion*(*params*)
+#### MagickaExpanded.alchemy.*createComplexPotion*(*params*)
  * Description
     * Creates or updates a potion based on the given *params*, and adds it to the framework's list of managed potions. Accepts multiple magic effects.
  * Parameters
