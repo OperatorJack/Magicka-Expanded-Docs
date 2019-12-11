@@ -6,7 +6,7 @@
    * Parameters
       * *spell*: Thes TES3spell object to calculate spell costs for.
 
-* MagickaExpanded.spells.*createBasicSpell*(*params*)
+#### MagickaExpanded.spells.*createBasicSpell*(*params*)
    * Description
       * Creates or updates a spell based on the given *params*, 
         and adds it to the framework's list of managed spell. Accepts one
