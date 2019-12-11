@@ -1,36 +1,36 @@
 # API - MagickaExpanded  
 ## Classes
-#### MagickaExpanded.**alchemy**
+#### [MagickaExpanded.alchemy](/docs/api/alchemy)
    * Description
       * An array of all alchemy related functions.
 
 
-#### MagickaExpanded.**enchantments**
+#### [MagickaExpanded.enchantments](/docs/api/enchantments)
    * Description
       * An array of all enchantment related functions.
 
 
-#### MagickaExpanded.**spells**
+#### [MagickaExpanded.spells](/docs/api/spells)
    * Description
       * An array of all spell related functions.
 
 
-#### MagickaExpanded.**effects**
+#### [MagickaExpanded.effects](/docs/api/effects)
    * Description
       * An array of all effect related functions.
 
 
-#### MagickaExpanded.**tomes**
+#### [MagickaExpanded.tomes](/docs/api/tomes)
    * Description
       * An array of all tome related functions.
 
 
-#### MagickaExpanded.**grimoires**
+#### [MagickaExpanded.grimoires](/docs/api/grimoires)
    * Description
       * An array of all grimoire related functions.
 
 
-#### MagickaExpanded.**functions**
+#### [MagickaExpanded.functions](/docs/api/functions)
    * Description
       * An array of all shared functions.
       
