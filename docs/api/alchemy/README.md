@@ -1,4 +1,5 @@
 # MagickaExpanded.alchemy
+## Functions
 #### MagickaExpanded.alchemy.*createBasicPotion*(*params*)
  * Description
     * Creates or updates a potion based on the given *params*, and adds it to the framework's list of managed potions. Accepts one magic effect.
